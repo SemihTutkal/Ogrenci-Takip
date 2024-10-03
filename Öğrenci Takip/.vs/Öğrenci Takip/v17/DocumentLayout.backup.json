@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|c:\\users\\semih\\onedrive\\desktop\\yaz\u0131l\u0131m\\buu\\\u00F6\u011Frenci takip\\\u00F6\u011Frenci takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|solutionrelative:\u00F6\u011Frenci takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00F6\u011Frenci takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|solutionrelative:\u00F6\u011Frenci takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00F6\u011Frenci takip\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|solutionrelative:\u00F6\u011Frenci takip\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00F6\u011Frenci takip\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621EAA34-EEEC-40FA-8981-D2ABD014664A}|\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip.csproj|solutionrelative:\u00F6\u011Frenci takip\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\kayit.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011Frenci Takip\\kayit.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u00D6\u011Frenci Takip\\kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:02.762Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kayit.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\kayit.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011Frenci Takip\\kayit.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\kayit.cs",
+              "RelativeToolTip": "\u00D6\u011Frenci Takip\\kayit.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAjwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:02.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011Frenci Takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\Form1.cs",
+              "RelativeToolTip": "\u00D6\u011Frenci Takip\\Form1.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAArwLoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:02.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011Frenci Takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Desktop\\Yaz\u0131l\u0131m\\buu\\\u00D6\u011Frenci Takip\\\u00D6\u011Frenci Takip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u00D6\u011Frenci Takip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:03.55Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

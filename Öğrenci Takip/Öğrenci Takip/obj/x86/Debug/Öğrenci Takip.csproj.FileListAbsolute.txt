@@ -1,0 +1,14 @@
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\bin\x86\Debug\Öğrenci Takip.exe.config
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\bin\x86\Debug\Öğrenci Takip.exe
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\bin\x86\Debug\Öğrenci Takip.pdb
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci_Takip.Form1.resources
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci_Takip.kayit.resources
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci_Takip.Properties.Resources.resources
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.exe
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.pdb
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\bin\x86\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\Öğrenci Takip\Öğrenci Takip\obj\x86\Debug\Öğrenci Takip.csproj.CopyComplete
